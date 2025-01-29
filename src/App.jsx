@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <Carousel_00 />
+      <div className='h-1 w-full bg-white my-5'></div>
     </>
   )
 }
