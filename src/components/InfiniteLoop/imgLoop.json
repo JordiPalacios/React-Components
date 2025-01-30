@@ -1,0 +1,22 @@
+[
+    {
+        "url" : "src/components/InfiniteLoop/media/chill.jpg",
+        "name": "chill",
+        "alt": "chill"
+    } ,
+    {
+        "url" : "src/components/InfiniteLoop/media/dance.jpg",
+        "name": "dance",
+        "alt":"dance"
+    },
+    {
+        "url" : "src/components/InfiniteLoop/media/mario.jpg",
+        "name": "mario",
+        "alt":"mario"
+    },
+    {
+        "url" : "src/components/InfiniteLoop/media/rana-pensando.jpg",
+        "name": "rana",
+        "alt":"rana"
+    }
+]
